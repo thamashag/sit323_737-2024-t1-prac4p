@@ -1,0 +1,5 @@
+{"level":"info","message":"This is an informational message.","service":"calculator-microservice"}
+{"level":"info","message":"This is an informational message.","service":"calculator-microservice"}
+{"level":"info","message":"Received request for multiply operation","service":"calculator-microservice"}
+{"level":"info","message":"Multiply operation completed","service":"calculator-microservice"}
+{"level":"info","message":"Received request for multiply operation","service":"calculator-microservice"}
